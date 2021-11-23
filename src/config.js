@@ -1,0 +1,5 @@
+export default {
+  API_ENDPOINT: process.env.REACT_APP_API_ENDPOINT,
+  API_KEY: process.env.REACT_APP_API_KEY,
+  API_SERVER_ENDPOINT: process.env.REACT_APP_MY_SERVER_ENDPOINT
+}
